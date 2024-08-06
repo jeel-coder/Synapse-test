@@ -1,0 +1,4 @@
+git pull
+git add . (this turns unteacked files to added ones)
+git commit -m "commit message" (git ka tree pe yeh files main daal raha hu, filhaal yeh github ka gate pe khada hai)
+git push (ab files git pe gaya, check the repo after refreshing)
